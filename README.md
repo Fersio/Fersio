@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yurii
-- 👀 I’m interested in websites and their development, mobile applications.
-- 🌱 I’m currently learning to be a FrontEnd Developer
+- 👀 I’m interested in web and mobile applications and their development.
+- 🌱 I’m currently learning to be a FrontEnd Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Pai.Product@gmail.com
 
